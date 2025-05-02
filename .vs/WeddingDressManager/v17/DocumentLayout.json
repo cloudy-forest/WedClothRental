@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CongNghePhanMem\\baocao\\LT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|e:\\congnghephanmem\\baocao\\lt\\windowsformsapp1\\all user control\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|solutionrelative:windowsformsapp1\\all user control\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|E:\\CongNghePhanMem\\baocao\\LT\\windowsformsapp1\\all user control\\uc_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|solutionrelative:windowsformsapp1\\all user control\\uc_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|E:\\CongNghePhanMem\\baocao\\LT\\windowsformsapp1\\all user control\\uc_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|solutionrelative:windowsformsapp1\\all user control\\uc_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|E:\\CongNghePhanMem\\baocao\\LT\\windowsformsapp1\\all user control\\uc_employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|solutionrelative:windowsformsapp1\\all user control\\uc_employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|E:\\CongNghePhanMem\\baocao\\LT\\windowsformsapp1\\all user control\\uc_employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|solutionrelative:windowsformsapp1\\all user control\\uc_employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|E:\\CongNghePhanMem\\baocao\\LT\\windowsformsapp1\\all user control\\uc_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|solutionrelative:windowsformsapp1\\all user control\\uc_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|E:\\CongNghePhanMem\\baocao\\LT\\windowsformsapp1\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|solutionrelative:windowsformsapp1\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|E:\\CongNghePhanMem\\baocao\\LT\\windowsformsapp1\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|solutionrelative:windowsformsapp1\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|E:\\CongNghePhanMem\\baocao\\LT\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|E:\\CongNghePhanMem\\baocao\\LT\\windowsformsapp1\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|solutionrelative:windowsformsapp1\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|E:\\CongNghePhanMem\\baocao\\LT\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|E:\\CongNghePhanMem\\baocao\\LT\\windowsformsapp1\\all user control\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92822FF-EE9C-4834-A554-B3C2CDFA5E7F}|WindowsFormsApp1\\WeddingDressManager.csproj|solutionrelative:windowsformsapp1\\all user control\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLNV.cs [Design]",
+              "DocumentMoniker": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\QLNV.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\QLNV.cs",
+              "ToolTip": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\QLNV.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\QLNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T03:50:33.945Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_AddProduct.cs [Design]",
+              "DocumentMoniker": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_AddProduct.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\All User Control\\UC_AddProduct.cs",
+              "ToolTip": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_AddProduct.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\All User Control\\UC_AddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T03:53:05.826Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_EmployeeManager.cs [Design]",
+              "DocumentMoniker": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_EmployeeManager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\All User Control\\UC_EmployeeManager.cs",
+              "ToolTip": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_EmployeeManager.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\All User Control\\UC_EmployeeManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T10:27:47.969Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_EmployeeManager.cs",
+              "DocumentMoniker": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_EmployeeManager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\All User Control\\UC_EmployeeManager.cs",
+              "ToolTip": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_EmployeeManager.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\All User Control\\UC_EmployeeManager.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv7EAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:31:52.433Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_Settings.cs [Design]",
+              "DocumentMoniker": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_Settings.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\All User Control\\UC_Settings.cs",
+              "ToolTip": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_Settings.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\All User Control\\UC_Settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:47:00.063Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_Report.cs [Design]",
+              "DocumentMoniker": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_Report.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\All User Control\\UC_Report.cs",
+              "ToolTip": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_Report.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\All User Control\\UC_Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:26:41.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_AddProduct.cs",
+              "DocumentMoniker": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_AddProduct.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\All User Control\\UC_AddProduct.cs",
+              "ToolTip": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_AddProduct.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\All User Control\\UC_AddProduct.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswEoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:02:05.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:10:33.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QLNV.cs",
+              "DocumentMoniker": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\QLNV.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\QLNV.cs",
+              "ToolTip": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\QLNV.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\QLNV.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIAwwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:26:26.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "function.cs",
+              "DocumentMoniker": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\function.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\function.cs",
+              "ToolTip": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\function.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\function.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:08:24.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:09:42.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_Report.cs",
+              "DocumentMoniker": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_Report.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\All User Control\\UC_Report.cs",
+              "ToolTip": "E:\\CongNghePhanMem\\baocao\\LT\\WindowsFormsApp1\\All User Control\\UC_Report.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\All User Control\\UC_Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:55:37.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
